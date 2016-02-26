@@ -1,0 +1,140 @@
+/*<!-- CSS -------------------->*/
+
+
+/*<!-- CSS  ABSOLUT-------------------->*/
+*{
+  margin:0;
+  padding: 0;
+  font-family: Arial;
+}
+html {
+  box-sizing: border-box;
+}
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
+/*<!---------------------->*/
+
+body{
+  color: white;
+  margin: 0px;
+  padding: 0px;
+  background-color: #EDEFED;
+}
+
+header{
+  background-color: #a6a6a6;
+  opacity: 0.3;
+  height: 2%;
+  width: auto;
+}
+
+header img{
+  padding: 1%;
+  height: 4%;
+  width: 4%;
+}
+
+header a{
+  margin: 10px;
+  color: #ffffff;
+  text-decoration: none;
+}
+
+#menu{
+    margin-top: 20px;
+    display:inline-flex;
+    list-style: none;
+    color: #FAF0E6;
+    font-size: 14px;
+    float: right;
+    font-family: Helvetica;
+    font-weight: bold;
+}
+
+#hote {
+  border :5px solid #FAF0E6;
+  padding : 5px;
+  border-width: 3px;
+}
+#container video {
+    position: absolute;
+    object-fit: cover;
+    width: 100%;
+    height: 680px;
+    z-index: -1;
+  }
+                                                          /*TOP & VIDEO !!*/
+
+#centralbox{
+padding: 16%;
+height: auto;
+width: auto;
+text-align: center;
+}
+
+h1{
+  font-size: 50px;
+  margin-bottom: 0px;
+  font-family: Avant Garde,Avantgarde,Century Gothic,CenturyGothic,AppleGothic,sans-serif;
+}
+
+p{
+  font-size: 16px;
+  margin-bottom: 55px;
+  font-weight: bold;
+  font-family: sans-serif;
+}
+
+#bouton {
+  margin: auto;
+  width: 150px;
+  height: 40px;
+  line-height: 35px;
+  text-align: center;
+  background-color: rgba(100,185,188,0.7);
+  border: 1px;
+  border-radius: 5%;
+}
+
+#bouton a{
+  font-family: Avant Garde,Avantgarde,Century Gothic,CenturyGothic,AppleGothic,sans-serif;
+  color: white;
+  font-size: 14px;
+}
+
+#box2{
+  background: grey;
+  height: 100vh;
+  text-align: center;
+  padding: 1%;
+}
+
+#box2 p{
+  padding: 15%;
+  font-size: 50px;
+  margin-bottom: 0px;
+  font-family: Avant Garde,Avantgarde,Century Gothic,CenturyGothic,AppleGothic,sans-serif;
+}
+
+/*-- FOOTER --------------------*/
+
+#Copyright{
+  background-color:#66ccff;
+  opacity: 0.8;
+}
+
+.c{
+  text-align: center;
+  color: blue;
+  padding: 2%;
+  height: 10vh;
+  width: 100%;
+  font-size: 10px;
+  color: #FFF;
+}
+
+/*-- FOOTER END--------------------*/
+
+/*-- THE END--------------------*/
