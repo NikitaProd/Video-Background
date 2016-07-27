@@ -49,8 +49,8 @@ h1{
   }
 
 p{
-    font-size: 110%;
-    margin-bottom: 40px;
+    font-size: 100%;
+    margin-bottom: 38px;
     font-weight: bold;
     font-family: sans-serif;
   }
